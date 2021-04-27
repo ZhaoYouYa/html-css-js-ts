@@ -16,18 +16,21 @@
             <tr>
                 <td class="labelitem">开始日期</td>
                 <td class="input-container">
-                    <input id="startDate" type="date" class="InputStyle" style="padding-left: 2px" />
+                    <input id="startDate" v-model="startDate" type="text" class="InputStyle" style="padding-left: 2px" />
                 </td>
                 <td class="labelitem">结束日期</td>
                 <td class="input-container">
-                    <input id="endDate" type="date" class="InputStyle" style="padding-left: 2px"/>
+                    <input id="endDate" v-model = "endDate"type="text" class="InputStyle" style="padding-left: 2px"/>
                 </td>
                 <td class="labelitem">仓库</td>
                 <td class="input-container">
-                    <input id="Warehouse" type="number" class="InputStyle" style="padding-left: 2px"/>
+                    <input id="Warehouse" v-model = "WarehouseId" type="number" class="InputStyle" style="padding-left: 2px"/>
                 </td>
                 <td>
                     <input id="query" type="button" value="查询" class="ButtonEx-26 btn-save" v-on:click="query"/>
+                </td>
+                <td>
+                    <p v-show = "IsFormtErr=true" style="color: red;">{{ErrMessage}}</p>
                 </td>
             </tr>
 
