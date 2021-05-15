@@ -85,7 +85,6 @@ htmlÖ»¸ºÔðÄÚÈÝ£¬¶ÔÓÚ¶þÎ¬Æ½ÃæµÄÅÅ²¼À´Ëµ£¬ËüÊÇÒ»Î¬µÄ¡£
 html ÓÐºÜ¶àÊôÐÔÊÇ·½±ãÊ¹ÓÃµÄ²¼¾Ö¡£
 
 htmlÖÐµÄÁ÷ÔªËØ¡£html»¹Ìá¹©ÁË·á¸»µÄÎÄµµ³ÊÏÖ·½·¨£¬µ«ÊÇ ÏÖÔÚÊ¹ÓÃhtmlÊÇ¸ü¶àµÄ×öÈË»ú½»»¥Ê¹ÓÃ
-<<<<<<< HEAD
 
 
 ### 2021Äê5ÔÂ11ÈÕ
@@ -93,5 +92,3 @@ htmlÖÐµÄÁ÷ÔªËØ¡£html»¹Ìá¹©ÁË·á¸»µÄÎÄµµ³ÊÏÖ·½·¨£¬µ«ÊÇ ÏÖÔÚÊ¹ÓÃhtmlÊÇ¸ü¶àµÄ×öÈË»ú½
 htmlÔªËØ·ÖÎªÐÐÄÚÔªËØºÍ¿éÔªËØ¡£ÐÐÄÚÔªËØ±íÃ÷ÔªËØÔÚÒ»ÐÐ£¬¿éÔªËØÄ¬ÈÏ»»ÐÐ
 
 html ½á¹¹ css Íâ¹Û£¬js ÐÐÎª¡£
-=======
->>>>>>> 4384894efecbac6697c2c6831eadc76e1da475d9
